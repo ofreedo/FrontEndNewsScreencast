@@ -1,1 +1,105 @@
+/****************************************************************
+*
+*     Front-end News! Stylesheet
+*
+*
+*   Indigo             : #3f51b5
+*   White              : #fff
+*   Header Background  : #4054B2 
+*   Light blue         : #c5cae9
+*   Pink               : #ff4081 
+*   Gray (dark)        : #212121
+*   Gray (medium)      : #727272  
+*   Gray (light)       : #b6b6b6
+*
+*   R: 64, G: 84, B: 178 (used for finding the hexadecimal number)
+*****************************************************************/
+
+/*----------------------------------------------------------------
+*   Base (I'll be using this to separate my sections in order to achieve better orginization)
+-----------------------------------------------------------------*/
+
+body {
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+
+/*----------------------------------------------------------------
+*  Header 
+-----------------------------------------------------------------*/
+
+.hero {
+  background-color: #3f51b5;
+  color: #fff; 
+  margin-bottom: 40px;
+  padding: 20px 0;
+  text-align: center;
+
+}
+
+/*----------------------------------------------------------------
+*  Logo (sort them alphabetically)
+-----------------------------------------------------------------*/
+
+.logo {
+  font-size: 34px;
+  font-weight: bold;
+  text-transform: uppercase;  
+}
+
+/*----------------------------------------------------------------
+*  News
+-----------------------------------------------------------------*/
+
+.news-item {
+  border-bottom: 1px solid #b6b6b6;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+
+}
+
+.news-link {
+  color: #3f51b5;
+  font-size: 24px;
+}
+
+/*----------------------------------------------------------------
+*  Container
+-----------------------------------------------------------------*/
+
+.container {
+   margin: 0 auto;
+  max-width: 800px;
+
+}
+
+
+
+
+
+
+
+
+
 
